@@ -1,4 +1,9 @@
 # posttest6_009_hendi
+SIMOP (Sistem Informasi Manajemen Objek Pajak)
+
+Hendi
+2009106009
+Pemrograman Mobile A2 2020
 
 A new Flutter project.
 
